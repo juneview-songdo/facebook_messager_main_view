@@ -15,9 +15,9 @@
     ```
 3. start the project by entering the following command.
     ```bash
-    flutter run [execute file path here] -d chrome
+    flutter run lib/app/_/_/interaction/view.blueprint/page/facebook_messager_main_view/_/view.dart -d chrome
     ```
 
 ## Screenshots
-![]()
+![](https://github.com/juneview-songdo/facebook_messager_main_view/assets/21379657/6e283981-d5bb-4e8b-a70b-0f14893c00dd)
 
