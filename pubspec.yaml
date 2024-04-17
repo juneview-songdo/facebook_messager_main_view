@@ -3,7 +3,7 @@ description: "Facebook Messager Main View"
 #publish_to: 'none'
 repository: https://github.com/juneview-songdo/facebook_messager_main_view
 
-version: 1.0.0+1
+version: 1.0.2
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
